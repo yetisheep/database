@@ -1,0 +1,63 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\主畫面.aspx
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\主畫面.aspx.cs
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\主畫面.aspx.designer.cs
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\bin\主畫面.aspx
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\bin\主畫面.aspx.cs
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\bin\主畫面.aspx.designer.cs
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\csim\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\bin\主畫面.aspx
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\bin\主畫面.aspx.cs
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\bin\主畫面.aspx.designer.cs
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Administrator\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Administrator\Downloads\123\WebApplication1\bin\主畫面.aspx
+C:\Users\Administrator\Downloads\123\WebApplication1\bin\主畫面.aspx.cs
+C:\Users\Administrator\Downloads\123\WebApplication1\bin\主畫面.aspx.designer.cs
+C:\Users\Administrator\Downloads\123\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Administrator\Downloads\123\WebApplication1\bin\WebApplication1.dll
+C:\Users\Administrator\Downloads\123\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Administrator\Downloads\123\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\123\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Administrator\Downloads\123\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Administrator\Desktop\1205\WebApplication1\bin\主畫面.aspx
+C:\Users\Administrator\Desktop\1205\WebApplication1\bin\主畫面.aspx.cs
+C:\Users\Administrator\Desktop\1205\WebApplication1\bin\主畫面.aspx.designer.cs
+C:\Users\Administrator\Desktop\1205\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Administrator\Desktop\1205\WebApplication1\bin\WebApplication1.dll
+C:\Users\Administrator\Desktop\1205\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Administrator\Desktop\1205\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1205\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Administrator\Desktop\1205\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\user\Desktop\1205\WebApplication1\bin\主畫面.aspx
+C:\Users\user\Desktop\1205\WebApplication1\bin\主畫面.aspx.cs
+C:\Users\user\Desktop\1205\WebApplication1\bin\主畫面.aspx.designer.cs
+C:\Users\user\Desktop\1205\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\user\Desktop\1205\WebApplication1\bin\WebApplication1.dll
+C:\Users\user\Desktop\1205\WebApplication1\bin\WebApplication1.pdb
+C:\Users\user\Desktop\1205\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\1205\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\user\Desktop\1205\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\bin\主畫面.aspx
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\bin\主畫面.aspx.cs
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\bin\主畫面.aspx.designer.cs
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\bin\WebApplication1.dll.config
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\bin\WebApplication1.dll
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\bin\WebApplication1.pdb
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\obj\Debug\WebApplication1.dll
+D:\文件\104-1資料庫管理\1207\1207\WebApplication1\obj\Debug\WebApplication1.pdb
